@@ -70,7 +70,7 @@ the reason PointNet shrugs off missing data:
 ## Quickstart
 
 ```bash
-git clone <your-fork-url>
+git clone https://github.com/nawar21/PointNet-Simple
 cd pointnet-from-scratch
 pip install -r requirements.txt
 
