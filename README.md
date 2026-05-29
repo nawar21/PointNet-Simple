@@ -71,7 +71,7 @@ the reason PointNet shrugs off missing data:
 
 ```bash
 git clone https://github.com/nawar21/PointNet-Simple
-cd pointnet-from-scratch
+cd PointNet-Simple
 pip install -r requirements.txt
 
 # 1) train the classifier on the synthetic shapes (CPU-friendly)
