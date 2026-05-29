@@ -65,6 +65,13 @@ the reason PointNet shrugs off missing data:
 
 ![robustness](assets/robustness.png)
 
+
+
+
+Note: The orange points are the final max-pool winners.
+They determine the final pooled feature after the learned alignment.
+But with T-Nets enabled they are not strictly guaranteed
+to be the only points influencing the whole prediction.
 ---
 
 ## Quickstart
